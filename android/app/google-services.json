@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471934775830",
+    "firebase_url": "https://flashchatflutter-daa5f.firebaseio.com",
+    "project_id": "flashchatflutter-daa5f",
+    "storage_bucket": "flashchatflutter-daa5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471934775830:android:2cae4ccc57b821b557fb37",
+        "android_client_info": {
+          "package_name": "co.walobwa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471934775830-4082qs0q573n6u4lshpcm8kkb08ar0ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TuTa8HOXxWOl6Wc3iiJOZw75F9jzywA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471934775830-4082qs0q573n6u4lshpcm8kkb08ar0ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
